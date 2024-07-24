@@ -1,0 +1,8 @@
+local msg = "IF IM HERE YOU NOT SURVIVE :)" 
+
+while wait() do 
+
+game.Player:Chat (msg) 
+
+end
+
